@@ -30,7 +30,7 @@
 
 * Qual a diferença entre Mensagem e Eventos?
 
-* Cite 6 fatores do Twelve-Factor App.
+* Cite 6 fatores do Twelve-Factor App e explique cada um deles.
 
 * Quais são as principais camadas no desenvolvimento de um software?
 
