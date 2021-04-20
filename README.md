@@ -37,3 +37,5 @@
 * Diferencie Arquitetura SOA X Arquitetura microserviços.
 
 * Cite dois APIs Managements utilizados no mercado.
+
+* Desenvolva um diagrama técnico para um sistema de Supermercado. O seu desenho deverá trazer segurança, escalabilidade, monitoramento e integrações com terceiros.
